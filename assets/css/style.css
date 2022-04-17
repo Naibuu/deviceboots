@@ -19,6 +19,7 @@ html {
 .win11 {
   height: 100vh;
   background: #000;
+  cursor: none;
 }
 
 .settings {
@@ -26,6 +27,7 @@ html {
   height: 15vh;
   background: #000;
   text-align: center;
+  cursor: unset;
 }
 
 a {
